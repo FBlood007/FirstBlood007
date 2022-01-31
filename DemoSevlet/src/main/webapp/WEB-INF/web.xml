@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
+  <display-name>DemoSevlet</display-name>
+  <welcome-file-list>
+<!--     <welcome-file>demo.html</welcome-file> -->
+		 <welcome-file>login.html</welcome-file>
+<!--  	<welcome-file>loginServlet.html</welcome-file> -->
+  </welcome-file-list>
+  
+<!--     <servlet> -->
+<!-- 		<servlet-name>s1</servlet-name> -->
+<!-- 		<servlet-class>com.tqpp.FirstServlet</servlet-class> -->
+<!--     	<init-param> -->
+<!--     		<param-name>username</param-name> -->
+<!--     		<param-value>Raj</param-value> -->
+<!--     	</init-param> -->
+<!--     	<load-on-startup>9</load-on-startup> -->
+<!--     </servlet> -->
+
+<!--   	<servlet-mapping> -->
+<!--   	<servlet-name>s1</servlet-name> -->
+<!-- 	<url-pattern>/hello</url-pattern> -->
+<!--   	</servlet-mapping> -->
+
+<!-- 	<servlet> -->
+<!-- 		<servlet-name>s2</servlet-name> -->
+<!-- 		<servlet-class>com.tqpp.SecondServlet</servlet-class> -->
+<!-- 	</servlet> -->
+	
+<!-- 	<servlet-mapping> -->
+<!--   	<servlet-name>s2</servlet-name> -->
+<!-- 	<url-pattern>/Second</url-pattern> -->
+<!--   	</servlet-mapping> -->
+
+<!-- <context-param> -->
+<!-- <param-name>url</param-name> -->
+<!-- <param-value>jdbc:mysql://localhost:3306/advancejava?useSSL=false</param-value> -->
+<!-- </context-param> -->
+
+
+</web-app>
+
